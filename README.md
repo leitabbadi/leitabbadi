@@ -6,7 +6,18 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Hey there! I'm Leith Abbadi.</h2>
+<h2> Hey there! I'm Leit Abbadi.</h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+Electronics engineer specializing in embedded systems. Proficient in hardware design and firmware development, with a passion for innovation and problem-solving. Dedicated to delivering high-quality solutions and staying abreast of emerging technologies in the field.
+
+
+
+- 🎓 &nbsp; Graduated From : Faculty of Enineering (Electrical and Electronics department) - Ibn Khaldun Unversity.
+- 💼 &nbsp; Working as an Embedded Software Engineer freelancing .
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leit-abbadi-974560209/) 
+
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
